@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "コワレモノ",
+  "base_artist": "とた",
+  "createdAt": "2026-02-16T05:12:14.762842Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コワレモノ",
+      "artist": "THE BACK HORN",
+      "has_synced": true,
+      "path": "select/01_コワレモノ_THE_BACK_HORN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コワレモノ",
+      "artist": "Back Horn, The",
+      "has_synced": true,
+      "path": "select/02_コワレモノ_Back_Horn,_The.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コワレモノ",
+      "artist": "NoGoD",
+      "has_synced": true,
+      "path": "select/03_コワレモノ_NoGoD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コワレモノ",
+      "artist": "とた",
+      "has_synced": false,
+      "path": "select/pl_01_コワレモノ_とた.txt"
+    }
+  ]
+}
